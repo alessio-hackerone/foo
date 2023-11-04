@@ -1,6 +1,6 @@
 print("a totally safe file")
 
-print("a safe change")
+print("all good")
 
 # A totally unsafe change!
 try:

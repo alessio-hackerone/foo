@@ -1,1 +1,1 @@
-print("a totally safe executable")
+print("a totally safe file")
